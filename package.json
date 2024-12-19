@@ -1,0 +1,18 @@
+{
+    "name": "tool-ring",
+    "displayName": "Tool Ring",
+    "description": "An on screen multy tool to manipulte the active tool or foreground colour in quick succession ",
+    "version": "2.0.0",
+    "author": {
+      "name": "apsyll",
+      "url": "https://apsyll.itch.io/"
+    },
+    "contributors": [],
+    "publisher": "",
+    "license": "MIT",
+    "categories": ["Scripts"],
+    "contributes": {
+      "scripts": [{ "path": "./tool-ring.lua" }]
+    }
+  }
+  
